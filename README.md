@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShanwenYan
 - 👀 I’m interested in getting useful insights from primary data analysis
-- 🌱 I’m currently learning Julia
+- 🌱 I’m currently learning Quantum Analytics
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me: shawnyan.uoe@gmail.com
 
